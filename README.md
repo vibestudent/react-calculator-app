@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Built_with-v0-000000?style=for-the-badge&logo=vercel" alt="Built with v0" />
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 
-[Live Demo](#) • [Report Bug](https://github.com/florian-ariasu/react-calculator-app/issues) • [Request Feature](https://github.com/florian-ariasu/react-calculator-app/issues)
+[Live Demo](#) • [Report Bug](https://github.com/vibestudent/react-calculator-app/issues) • [Request Feature](https://github.com/vibestudent/react-calculator-app/issues)
 
 </div>
 
@@ -62,7 +62,7 @@ Follow these steps to run the calculator locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/florian-ariasu/react-calculator-app.git
+   git clone https://github.com/vibestudent/react-calculator-app.git
    ```
 
 2. **Navigate to the project directory**
